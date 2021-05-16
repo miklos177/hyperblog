@@ -1,4 +1,4 @@
-# hyperblog :tw-1f426: 
+# hyperblog :ox: :bamboo: 
 Un blog increible para el curso de [Git y Github de Platzi](https://platzi.com/clases/git-github/ "Git y Github de Platzi").
 > El curso de Platzi es lo que me hacía falta para triplicar mi salario y lanzarme a la creación de nuevos proyectos desafiantes.
 > - Miklos177
